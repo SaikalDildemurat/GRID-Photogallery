@@ -1,3 +1,3 @@
-#[GRID-Photogallery](https://saikaldildemurat.github.io/GRID-Photogallery/)
+# [GRID-Photogallery](https://saikaldildemurat.github.io/GRID-Photogallery/)
 
 
